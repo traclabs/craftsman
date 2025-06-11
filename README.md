@@ -1,2 +1,3 @@
-# craftsman
-Documentation on Craftsman robot control framework
+The CRAFTSMAN project brings together several different technologies developed at TRACLabs. It arose out of projects with NASA exploring inverse kinematics (TRAC-IK) and object-centric task encoding (Affordance Templates), and the control system we developed for the Atlas robot during the DARPA Robotics Challenge.  The basic CRAFTSMAN framework is an open-source tool suite based on the Robot Operating System (ROS) messaging and 3D visualization capabilities.  In recent projects, we have extended CRAFTSMAN to address the specific needs in industrial automation for International Fortune 500 companies, bimanual manipulation for the US government, and multi-limbed mobile manipulation for commercial robotics retailers.   In each case, we provide powerful yet simple-to-use robot control software and operator interfaces, customized for the client’s specific needs.
+
+![image tooltip here](/assets/images/craftsman.png)
